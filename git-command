@@ -3,3 +3,6 @@ git add
 git commit -m " "
 git push
 git pull
+git remote
+git remote -v
+
