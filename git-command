@@ -5,4 +5,6 @@ git push
 git pull
 git remote
 git remote -v
+git clone
+
 
